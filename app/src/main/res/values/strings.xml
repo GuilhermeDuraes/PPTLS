@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pedra papel tesoura lagarto Spock</string>
+    <string name="nome_oponente">PC</string>
+    <string name="textDesafio">X</string>
+    <string name="textInstrucao">Escolha uma opção abaixo:</string>
+    <string name="nomeUser">Usuário</string>
+    <string name="escolhaOponente">Escolha do oponente</string>
+    <string name="escolaUser">Escolha do usuário</string>
+    <string name="opcaoPedra">Pedra</string>
+    <string name="opcaoPapel">Papel</string>
+    <string name="opcao_tesoura">Tesoura</string>
+    <string name="opcao_lagarto">Lagarto</string>
+    <string name="opcaoSpock">Spock</string>
+</resources>
